@@ -12,6 +12,7 @@ O Urban Grocers é um aplicativo de pedidos de comida que oferece uma variedade 
 Neste projeto, concentrei-me na análise detalhada dos requisitos para a nova funcionalidade do back-end do Urban Grocers. Utilizei minhas habilidades em testes de API, incluindo a criação e execução de testes, utilizando ferramentas como o Postman e o Jira. Elaborei um checklist abrangente e detalhado para os testes, garantindo uma cobertura completa das funcionalidades a serem testadas, desde a autenticação até a integração de novos recursos.
 
 O objetivo principal foi garantir que a nova versão da API do Urban Grocers fosse robusta, confiável e capaz de atender às necessidades dos usuários finais. Ao longo do processo, identifiquei e relatei quaisquer problemas encontrados, permitindo que eu realizasse correções e melhorias conforme necessário.
+#### 🔗[Links para os relatórios de bugs feitos no Jira:](https://zzzmalu55.atlassian.net/jira/software/c/projects/TAG/issues?jql=project%20%3D%20%22TAG%22%20ORDER%20BY%20created%20DESC)
 
 ## Tecnologias Utilizadas
 
